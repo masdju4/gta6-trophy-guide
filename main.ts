@@ -1,3 +1,4 @@
+// final hand-in for the trophy guide
 import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
