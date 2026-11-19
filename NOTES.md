@@ -1,26 +1,25 @@
-# Method and sources
-
-The trophy names, descriptions and grades are the official PlayStation 5 list supplied by the kit. Public cross-checks were GTA Wiki, GTA6 Field Guide, Leonida Interactive and the Exophase/PSNProfiles lists used before the bounty opened.
-Roadmap stages are derived from the official descriptions: campaign chapters first, then heists and major arcs, then stranger strands, collectibles and properties, then activities and challenges.
-Platinum is the last stage because it requires the other 54 trophies.
-Missable flags come from descriptions that name a specific mission, choice, collection or count.
-Story missions and choice trophies can be missed by advancing too far.
-Collectible and count trophies need a deliberate sweep before moving on.
-Every guide is written in this entry's own words from the official description.
-Each guide carries a source line; no guide copies another site's prose.
-The app loads only local files and never reaches the network.
-Progress is stored in the browser and can be exported or imported as JSON.
-No Rockstar Games logo, official artwork or game screenshot is used.
-The visual identity, layout and guide text are original.
-The checklist shows every trophy with grade, description and kind tags.
-The spoiler mode hides story names and guides until earned.
-The roadmap and missable views are built from the same official descriptions.
-Sources cited beside guides: official trophy text, GTA Wiki, GTA6 Field Guide, Leonida Interactive, Exophase and PSNProfiles.
-A cited guide beats an uncited one, so every guide names its sources.
-The tracker is useful even without the internet.
-Progress export and import make it portable between browsers.
-Filters by grade and kind shorten the path to a trophy.
-Search matches names, descriptions and roadmap stages.
-The app is a fan-made guide and is not affiliated with Rockstar.
-No prize or payout is claimed in this entry.
-The program hands in app/ and screenshots beside main.ts.
+Official PlayStation trophy list is the primary source for names, descriptions, and unlock conditions.
+GTA Wiki and public guides provide extra context, routes, and community observations.
+Cross-checking sources helps catch outdated details and platform-specific differences.
+Roadmap entries should be built directly from official wording, not assumptions.
+Each roadmap step should map to a concrete trophy requirement.
+Missable trophies must be flagged before starting a new playthrough.
+Missable markers help avoid locking yourself out of completion.
+Platinum should be treated as final because it depends on all other trophies.
+Planning platinum last keeps spoiler risk and pacing under control.
+Every guide should cite its sources so readers can verify claims.
+Source links make corrections easier when game updates change requirements.
+The companion app works fully offline without network access.
+Progress is stored locally in the browser using localStorage.
+Export and import allow backups and moving progress between devices.
+Spoiler mode hides sensitive trophy details until you choose to reveal them.
+Filters help narrow trophies by status, type, or missable state.
+Clear filters make it easy to resume tracking after a break.
+No prize or reward is claimed by using this tracker.
+The app only organizes information already available publicly.
+Keep notes concise and focused on completion planning.
+Regular source checks keep the roadmap accurate over time.
+Community tips are useful but should be labeled as secondary.
+Offline-first design avoids dependence on external services.
+Backups protect long-running trophy hunts from data loss.
+This document is a personal reference, not an official PlayStation resource.

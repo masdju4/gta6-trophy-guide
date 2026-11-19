@@ -1,16 +1,21 @@
-# FAQ
-
-Q: Does the app need the internet?
-A: No. Open app/index.html from the files; nothing is fetched from the network.
-Q: Where is progress saved?
-A: In this browser's localStorage only.
-Q: How do I move progress?
-A: Export a small JSON file and import it in the other browser.
-Q: What does Hide story spoilers do?
-A: It blurs story trophy names, descriptions and guides until earned.
-Q: What counts as missable?
-A: A trophy tied to a named mission, choice, collection or count in the official description.
-Q: Are guides copied from other sites?
-A: No. They are written for this entry and each one names its sources.
-Q: Is this affiliated with Rockstar?
-A: No. It is a fan-made guide with original layout and no official artwork.
+This FAQ answers common questions about the GTA trophy guide.
+You do not need an internet connection after downloading the guide.
+All progress is stored locally on your own device.
+You can move progress by exporting and importing your save file.
+Spoiler mode hides story details until you choose to reveal them.
+Missable trophies are ones you can no longer earn after certain story points.
+The guide is written in our own words and is not copied from elsewhere.
+We are not affiliated with Rockstar Games in any way.
+Filters let you show or hide trophies by category or completion status.
+The roadmap includes new trophy sets, interface improvements, and translations.
+Offline use keeps your data private and under your control.
+Exported progress files can be backed up to any storage you prefer.
+Spoiler warnings appear before any story related content.
+Missable entries are clearly marked to help you plan ahead.
+Content is reviewed and rewritten rather than duplicated.
+No official endorsement or partnership with Rockstar exists.
+Search and filter options work together for faster browsing.
+Future updates aim to add more platforms and languages.
+Bug fixes and performance tweaks are also planned.
+Community feedback helps shape upcoming roadmap items.
+Thank you for using the guide and sharing suggestions.
